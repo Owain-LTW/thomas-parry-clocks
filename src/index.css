@@ -1,0 +1,21 @@
+#hero {
+  background-image: url("/public/images/background-clocks.jpg");
+}
+
+#hero-padding {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+body {
+  margin: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-impact {
+  color: white;
+  text-shadow: black 0px 0px 1;
+}
