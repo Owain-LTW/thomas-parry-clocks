@@ -1,9 +1,9 @@
-import HeaderNav from "./HeaderNav";
+import HeaderNav from "../Components/HeaderNav";
 
-function App() {
+function Home() {
   return (
     <>
-    <HeaderNav />
+      <HeaderNav />
       <section id="hero">
         <div id="hero-padding" className="text-center">
           <h1 className="text-impact">Watch, Clock and Chronometer</h1>
@@ -19,4 +19,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;
