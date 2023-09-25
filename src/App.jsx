@@ -1,6 +1,9 @@
+import HeaderNav from "./HeaderNav";
+
 function App() {
   return (
     <>
+    <HeaderNav />
       <section id="hero">
         <div id="hero-padding" className="text-center">
           <h1 className="text-impact">Watch, Clock and Chronometer</h1>
